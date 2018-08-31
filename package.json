@@ -1,6 +1,6 @@
 {
   "name": "@zcong/koa-github-oauth",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "koa middleware for github oauth",
   "main": "dist/index.js",
   "files": [
