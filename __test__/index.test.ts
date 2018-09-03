@@ -1,5 +1,5 @@
-import githubOauth from '../src'
+import { default as githubOauth } from '../src'
 
-it('should work well', () => {
+it('should be a function', () => {
   expect(typeof githubOauth).toBe('function')
 })

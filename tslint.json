@@ -4,6 +4,7 @@
   ],
   "rules": {
     "semicolon": [false],
-    "trailing-comma": [false]
+    "trailing-comma": [false],
+    "no-unused-variable": [false]
   }
 }
